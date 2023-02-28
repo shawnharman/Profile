@@ -14,7 +14,7 @@
 [![Learning](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
 
 ## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/506212044152897546?idleMessage=Maybe%20he%20doing%20make%20a%20Stuff!)](https://discord.com/users/686891533303152670)
+[![Discord Presence](https://lanyard.cnrad.dev/api/686891533303152670?idleMessage=Maybe%20he%20doing%20make%20a%20Stuff!)](https://discord.com/users/686891533303152670)
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnharman&show_icons=true&theme=cobalt)
