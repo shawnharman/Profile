@@ -1,5 +1,5 @@
 # Hello there
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=435&lines=Hi%2C+I'm+Shawn+(Z3RO%234032);I'm+from+Indonesia;I+am+currently+studying+HTML+and+JavaScript;Still+trying+to+understand+Python;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=435&lines=Hi%2C+I'm+Shawn+(Shawn%5053);I'm+from+Indonesia;I+am+currently+studying+HTML+and+JavaScript;Still+trying+to+understand+Python;)](https://git.io/typing-svg)
 
 ## Tool
 
