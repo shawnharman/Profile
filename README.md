@@ -1,5 +1,5 @@
 # Hello there
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=435&lines=Hi%2C+I'm+Shawn+(Shawn%5053);I'm+from+Indonesia;I+am+currently+studying+HTML+and+JavaScript;Still+trying+to+understand+Python;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=435&lines=Hi%2C+I'm+Shawn+;I'm+from+Indonesia;I+am+currently+studying+HTML+and+JavaScript;Still+trying+to+understand+Python;)](https://git.io/typing-svg)
 
 ## Tool
 
@@ -7,11 +7,11 @@
 
 ## Language
 
-[![Language](https://skillicons.dev/icons?i=nodejs,bash,py&theme=dark)](https://skillicons.dev)
+[![Language](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
 
 ## Learning
 
-[![Learning](https://skillicons.dev/icons?i=java,kotlin&theme=dark)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=py&theme=dark)](https://skillicons.dev)
 
 ## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/506212044152897546?idleMessage=Maybe%20he%20doing%20make%20a%20Stuff!)](https://discord.com/users/506212044152897546)
